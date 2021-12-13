@@ -8,3 +8,6 @@ https://myspace.com/fedjo/bio
 
 #### Telegram
 https://t.me/thefedjo
+
+#### Twitch
+https://twitch.th/thefedjo
