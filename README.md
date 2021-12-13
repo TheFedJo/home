@@ -1,4 +1,2 @@
 # TheFedJo
-https://gaming.nu/gaming/nu
-
-Geniete
+https://twitter.com/TheFedJo
