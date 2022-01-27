@@ -17,4 +17,5 @@ https://twitch.tv/thefedjo
 
 #### Substack 
 Game reviews misschien
+
 https://thefedjo.substack.com
