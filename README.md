@@ -1,21 +1,21 @@
 # TheFedJo
 
-#### Twitter
-https://twitter.com/TheFedJo
+#### [Twitter](https://twitter.com/TheFedJo)
+Heel actief hierop
 
-#### Myspace (soon to be defunct)
-https://myspace.com/fedjo/bio 
+#### [Myspace](https://myspace.com/fedjo/bio) 
+(soon to be defunct)
 
-#### Telegram
-https://t.me/thefedjo
+#### [Telegram](https://t.me/thefedjo)
+ik geloof dat ie het niet meer doet
 
-#### Twitch
-https://twitch.tv/thefedjo
+#### [Twitch](https://twitch.tv/thefedjo)
+Qdoe soms streamen.
 
 #### Steamvriendencode
 852576150
 
-#### Substack 
+#### [Substack](https://thefedjo.substack.com)
 Game reviews misschien
 
-https://thefedjo.substack.com
+
