@@ -10,7 +10,11 @@ https://myspace.com/fedjo/bio
 https://t.me/thefedjo
 
 #### Twitch
-https://twitch.th/thefedjo
+https://twitch.tv/thefedjo
 
 #### Steamvriendencode
 852576150
+
+#### Substack 
+Game reviews misschien
+https://thefedjo.substack.com
