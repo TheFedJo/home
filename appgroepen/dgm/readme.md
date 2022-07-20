@@ -7,7 +7,7 @@ De procedure om de geschiktheid te bepalen voor het lidmaatschap van De Gulden M
 2. Het curatorium
 3. De meesterproef
 
-Het algemene deel bestaat uit het invullen van een aantal formulieren.  
+Het algemene deel bestaat uit het invullen van onderstaand formulier. Neem hier de tijd voor, want het kan wel een kwartier duren.
 <pre>
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfCrXeiz1cdrfbTVHE5yEYDbo5OJG0L0S5SiWHopc_ubO15vg/viewform?embedded=true" width="640" height="825" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </pre>
