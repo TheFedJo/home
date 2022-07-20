@@ -9,7 +9,7 @@ De procedure om de geschiktheid te bepalen voor het lidmaatschap van De Gulden M
 
 Het algemene deel bestaat uit het invullen van een aantal formulieren.  
 <pre>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfCrXeiz1cdrfbTVHE5yEYDbo5OJG0L0S5SiWHopc_ubO15vg/viewform?embedded=true" width="640" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfCrXeiz1cdrfbTVHE5yEYDbo5OJG0L0S5SiWHopc_ubO15vg/viewform?embedded=true" width="640" height="710" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </pre>
 
 <pre>
