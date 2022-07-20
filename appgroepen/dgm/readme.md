@@ -8,30 +8,8 @@ De procedure om de geschiktheid te bepalen voor het lidmaatschap van De Gulden M
 3. De meesterproef
 
 Het algemene deel bestaat uit het invullen van een aantal formulieren.  
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+` `  
+` `  
     
 #### Nadere informatie
 De Gulden Middenweg is een officiële satellietapp van Team Klaag. Wat betekent dit voor jou? Vraag hiernaar aan je lokale beheerder van Team Klaag of een officiële satellietapp daarvan.
