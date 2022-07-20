@@ -12,17 +12,5 @@ Het algemene deel bestaat uit het invullen van onderstaand formulier. Neem hier 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfCrXeiz1cdrfbTVHE5yEYDbo5OJG0L0S5SiWHopc_ubO15vg/viewform?embedded=true" width="640" height="825" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </pre>
 
-<pre>
-
-
-
-
-
-
-
-
-
-
-</pre>    
 #### Nadere informatie
 De Gulden Middenweg is een officiële satellietapp van Team Klaag. Wat betekent dit voor jou? Vraag hiernaar aan je lokale beheerder van Team Klaag of een officiële satellietapp daarvan.
